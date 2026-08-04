@@ -1,0 +1,9 @@
+﻿Metric,Value
+Rows,612
+Missing Email,48
+Exact Duplicates,18
+Invalid Dates,0
+Mismatched Amounts,64
+Outliers Capped,0
+Late Loads,39
+Invalid Statuses,175
